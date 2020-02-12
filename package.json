@@ -1,0 +1,24 @@
+{
+  "name": "design-pattern",
+  "version": "1.0.0",
+  "description": "Design Pattern in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorleandroof/design-pattern-nodejs.git"
+  },
+  "keywords": [
+    "design-pattern",
+    "node",
+    "victor-leandro"
+  ],
+  "author": "Victor Leandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorleandroof/design-pattern-nodejs/issues"
+  },
+  "homepage": "https://github.com/victorleandroof/design-pattern-nodejs#readme"
+}
